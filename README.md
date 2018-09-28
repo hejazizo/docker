@@ -13,11 +13,11 @@ If you don’t want to preface the `docker` command with `sudo`, create a Unix g
 ## General
 |Command|Description |
 |--|--|
-|`docker`||
+|`docker`|lists all the commands available in docker|
 |`docker version`|verified client can talk to engine|
-|`docker info`|most config values of engine|
-|`docker <command>`|old (still works)|
-|`docker <command> <subcommand> options`|new|
+|`docker info`|more info on configureation and setup|
+|`docker <command> (options)`|old (still works)|
+|`docker <command> <subcommand> (options)`|new|
 
 ## Running Container
 |Command|Description |
